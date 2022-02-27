@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the kingdom of Ireland to a member of the Army, under the command of His Excellency the Lord Generall Fairfax, concerning their proceedings in this nation, and the crowning of their heads with laurel. With severall quæries, touching the bleeding condition of both nations, viz. I. Whether there be any way to unite the representative body of a state, and cut the heart in the middle. II. Can a kingdom think you stand fast, and the affections of men in it tatter to and fro. III. Shall the Presbyterian strive to get a vote one day, and the Independent another the next, that so the day following you may be the fitter to clash one another a pieces; and doe you think this way to better and settle a kingdom? Imprimatur, Theo: Jennings.</title>
+            <author>Hopkins, William, of Dublin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86551</idno>
+            <idno type="STC">Wing H2755</idno>
+            <idno type="STC">Thomason E546_12</idno>
+            <idno type="STC">ESTC R202453</idno>
+            <idno type="EEBO-CITATION">99862723</idno>
+            <idno type="PROQUEST">99862723</idno>
+            <idno type="VID">114898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114898)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the kingdom of Ireland to a member of the Army, under the command of His Excellency the Lord Generall Fairfax, concerning their proceedings in this nation, and the crowning of their heads with laurel. With severall quæries, touching the bleeding condition of both nations, viz. I. Whether there be any way to unite the representative body of a state, and cut the heart in the middle. II. Can a kingdom think you stand fast, and the affections of men in it tatter to and fro. III. Shall the Presbyterian strive to get a vote one day, and the Independent another the next, that so the day following you may be the fitter to clash one another a pieces; and doe you think this way to better and settle a kingdom? Imprimatur, Theo: Jennings.</title>
+                  <author>Hopkins, William, of Dublin.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by B.A.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3v: William Hopkins.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "March 9 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114898:1" rendition="simple:additions"/>
+            <p>A MESSAGE Sent from the Kingdom of IRELAND TO A Member of the <hi>ARMY,</hi> under the command of His Excellency the Lord Generall <hi>Fairfax,</hi> concerning their proceedings in this Nation, and the crowning of their heads with Laurel.</p>
+            <p>
+               <hi>WITH</hi> Severall Quaeries, touching the bleeding condition of both Nations, <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <hi>I. Whether there be any way to unite the Repreſentative Body of a State, and cut the heart in the middle.</hi>
+                  </item>
+                  <item>
+                     <hi>II. Can a Kingdom think you stand fast, and the affections of men in it tatter to and fro.</hi>
+                  </item>
+                  <item>
+                     <hi>III. Shall the Presbyterian ſtrive to get a Vote one day, and the Independent another the next, that ſo the day following you may be the fitter to claſh one another a pieces; and doe you think this way to better and ſettle a Kingdom?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Imprimatur, <hi>Theo: Jennings.</hi>
+            </p>
+            <p>Imprinted at <hi>London,</hi> by <hi>B. A. MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114898:2"/>
+            <pb n="1" facs="tcp:114898:2"/>
+            <head>New Newes from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Noble Captain,</salute>
+            </opener>
+            <p>MY unfeigned love, and courteous reſpects remem<g ref="char:EOLhyphen"/>bred unto you, I underſtand by your laſt, that you have left Col. <hi>Whalleyes</hi> Regiment, and have now a command under the Lord Generals Brigade. . I likewiſe hear that God of late hath done great things for you, I pray the Lord of Hoſts to make you humbly &amp; ſincerely thank<g ref="char:EOLhyphen"/>full, and that you may not bury in oblivion, thoſe memora<g ref="char:EOLhyphen"/>ble mercies that are yet among you: for truly, I do wiſh your reall happineſſe, and the continuance of your ſplendor with my heart, and that your light may ſo ſhine forth on earth, that it may glorifie your Father which is in Heaven: But I hear there are diviſions among you, and indeed I part<g ref="char:EOLhyphen"/>ly believe it, yet if any man ſeems to be contentious, you know we have no ſuch cuſtome, no nor the Ghurches of God, but there muſt be Hereſies among you (I do not mean with conſent and toleration) that thoſe that are made mani<g ref="char:EOLhyphen"/>feſt, may be the more approv'd. Now if it be not ſo, how comes it then to paſſe, inſtead of helping of us in our quar<g ref="char:EOLhyphen"/>rell, you earneſtly diſpute the lawfulneſs thereof. Methinks that <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittain</hi> degenerates from himſelf, that goes about not only about to prejudice, but circumvent himſelf, and as our proverb, though a homely one relates, <hi>'Tis a very ill Bird that defiles its own neſt.</hi> Shall <hi>David, Ioſhua,</hi> or <hi>Iehoſaphat</hi> be
+<pb n="2" facs="tcp:114898:3"/>
+afraid to fight againſt the <hi>Moabites, Hittites;</hi> or the <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orits,</hi> becauſe it was their native Country: but it may be you'l object, they had immediate command for what they did, &amp; truly ſo have we, only here is the difference, God ſpake to them by his Prophets, and ſends us word out of his Holy Word and preaching Miniſters; or thus, Shall <hi>Eſau</hi> let fall his birth-right for meſſe of pottage, and may not his brother ſtoop to take it up; or ſhall ſome great man born to a vaſt eſtate forfeit and ſurprize it by rebellion, and ſhall not this great man, notwithſtanding his great birth, be puniſht and made ſenſible thereof: Doe but impartially examine the preſent courſe of Juſtice, that you are now upon; but to wave this, ſeriouſly (acquaintance) let me tell you, did you but walk ſo exactly, and ſo cloſe as many in the world ſup<g ref="char:EOLhyphen"/>poſe you do, you could not chuſe but in ſome meaſure ſim<g ref="char:EOLhyphen"/>pathize with grief mourning with them that mourn, conſi<g ref="char:EOLhyphen"/>dering thoſe in bonds as being bound your ſelves: then pray reſolve me friend, is it not a ſad thing that we which have ex<g ref="char:EOLhyphen"/>pected ſome comfort and relief this 6 or 7 years together, now that the Lord has put into your hand a gracious op<g ref="char:EOLhyphen"/>portunity, crowning your heads with Laurell where ever you go, making you Victors of a ſpacious field, that you ſhould be ſo churliſh and unkind, as to deceive us of our expectation. Are we not your Brethren, or do you out us in the ſtate of grace, becauſe we jump not with you in opinion; you do confeſſe your ſelves, that difference in judgment, ſhould not differ men in love. But may be you will ſay, when a ſafe and well grounded peace is ſetled here, and the kingdom quiet, then youl do ſomthing for us; indeed, ſhould I ſee ſome impotent poore ſicke man ready to periſh for want of bread, and hereupon ſhould tell him, I would but ſtep home, and ſee if my own family wanted not themſelvs, and ere I ſhould returne, this ſame poore Creature ſhould
+<pb n="3" facs="tcp:114898:3"/>
+faint and die in the ſtreet, my conſcience would go neere to trouble me for this. If whileſt you are ſetling one kingdom another ſhould be loſt, I cannot ſee by any rule thats right, that you ſhould any way be gainers by it. Beſides, do you ever think to ſettle a kingdom, till your affections be ſo? is there any way to unite the Repreſentative Body of a State, and cut the heart in the middle? Can a kingdom think you ſtand faſt, and the affections of men in it tatter to and fro? Shall the Presbyterian ſtrive to get a Vote one day, and the Independent another the next, that the day following you may be the fitter to claſh one another a pieces? And do you think this way to better a kingdom? Shall the Presbyter complain in the Pulpit, and the Independent revile in the Preſſe, and will you yet preſſe forward for a peace? Shall the Presbyter diminiſh his affection where a ſteeple is, and an Independent that makes it their chiefeſt pretence, neglect the duty of love, and do you think this way to ſettle a king<g ref="char:EOLhyphen"/>dom? Do you imagine when a fountain is corrupted, that the ſtreams will ere glid clear? Can the heart of a kingdom be ſick, and the Suburbs of it be ſound? Come Chriſtians, be wiſe, and take a fooles advice, give ſome viſible demon<g ref="char:EOLhyphen"/>ſtration, and manifeſt teſtimony to the world, that though ſome of you diſſent about the Law, none of you do ſo in love; and though you differ in the Mould, yet you agree in the mettle: to that end, let the Presbyter preach, and pray againſt known and ſcandalous offences, and the Independent againſt Sects, Hereſie, and Schiſm: Let the Presbyterian practiſe what he doth know, &amp; the Independent know what he doth practiſe: Let the Presbyter lend his hand to ſet up the Scepter of Chriſt, and the independent joyn his to pull <hi>Dagons</hi> down, and both in the ſimplicity of ſoul, and ſince<g ref="char:EOLhyphen"/>rity of heart, indeavour to keep unfeinedly the unity of the ſpirit in the bond of peace; by which means you will quick<g ref="char:EOLhyphen"/>ly purchaſe joy, and we gain ſome relief from <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:114898:4"/>Conſider what I ſay, and the Lord give you underſtan<g ref="char:EOLhyphen"/>ding in all things, which yet hath been, and ſtill ſhall be the prayer of</p>
+            <closer>
+               <signed>Your aſſured, though forgotten iriend, <hi>William Hopkins,</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin ult.</hi>
+                  <date>
+                     <hi>Feb.</hi> 1648.</date>
+               </dateline>
+
+            </closer>
+            <postscript>
+               <q>
+                  <bibl>
+                     <hi>Luke 10.36; 37.</hi>
+                  </bibl>
+                  <p>Which now of theſe three thinkest thou, was neighbour unto Him that fell among the Theeves. And he ſaid, he that ſhewed mercy on him; then ſaid Ieſus vnto him, Go thou, and do likewiſe.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Luke 6.33, 34.</hi>
+                  </bibl>
+                  <p>For if you love them, which love you, what thanks have you; for ſinners alſo love thoſe that love them; and if you do good to them, which do good to you, what thanks have you, for ſin<g ref="char:EOLhyphen"/>ners alſo do even the ſame.</p>
+               </q>
+            </postscript>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have ſent your ſon <hi>Samuel</hi> a Copy of Verſes; We can ſpare you a few of our Iriſh Cries, though you cannot ſpare us a little of your Engliſh love; but we hope the next fair wind to hear or ſee better things from you.</p>
+               <trailer>VALE.</trailer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb n="5" facs="tcp:114898:4"/>
+            <head>Contribution for Heaven.</head>
+            <l>THis is a taxing Age wherein we live,</l>
+            <l>Then bleſt <hi>Emanuel,</hi> let me ever give</l>
+            <l>Due praiſe unto thy Name, that taxes no man</l>
+            <l>To pay the leaſt of things more then he can;</l>
+            <l>And let my Soul, my poor Soul ready be</l>
+            <l>To pay a Contributiall Faſt to thee.</l>
+            <l>And ſince my ſins ſo evident appeares,</l>
+            <l>Oh let me pay Excize of ſighes and teares,</l>
+            <l>Unto thy Name for aye; but let them be</l>
+            <l>Never repaid with baſe Reluctancy:</l>
+            <l>But let me freely ſorrow, and bewayl</l>
+            <l>My ſinnh 'gainſt thee, and my moſt bleſſed Bayl,</l>
+            <l>My arrears are all behind; 'tis very right,</l>
+            <l>If thou ſtrainſt for 'em, 'tis my undoing quite;</l>
+            <l>But if thou pleaſe to ſet me but a day,</l>
+            <l>I am perſwaded that thy Son will pay:</l>
+            <l>I cannot work with ſo much art, 'tis true,</l>
+            <l>As many of thy Saints and Servants do:</l>
+            <l>And yet I hope thus far to prevaile,</l>
+            <l>To bring a <hi>Trowell, Hammer,</hi> and a <hi>Naile,</hi>
+            </l>
+            <l>Towards the perfecting what is begun,</l>
+            <l>By thy all holy, and moſt ſacred Son:</l>
+            <l>And do not doubt in everh fitting place,</l>
+            <l>To purchaſe ſo much grace, as call for grace.</l>
+            <l>And truly Lord, I do conceive I ought</l>
+            <l>To tax my heart for every idle thought.</l>
+            <l>
+               <pb n="6" facs="tcp:114898:5"/>And if thou wilt thy heavenly grace afford,</l>
+            <l>Ile taxe it too for every idle word:</l>
+            <l>And if thy breathings do apace diſtill,</l>
+            <l>Ile make my deeds to pay againſt their will,</l>
+            <l>The Incomes of thy ſpirit will ſuffice</l>
+            <l>Far better then an Army when they riſe:</l>
+            <l>Then rouze my ſoule, and ſee thou never be</l>
+            <l>A ſad Antagoniſt to thy ſelf and me.</l>
+            <l>Perfect, O perfect, what thou haſt begun,</l>
+            <l>Dear Father ſpeak the word, the deed is done;</l>
+            <l>My feeble prayers may perchance moleſt thee,</l>
+            <l>Yet Ile not leave the Lord, untill thou bleſſe me.</l>
+            <l>Then grant me my deſire, for fear I bee</l>
+            <l>A ſecond Widow, in my woing thee:</l>
+            <l>My eyes have ſeen ſalvation; I ſurceaſe,</l>
+            <l>Now when thou wilt, let me depart in peace.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
